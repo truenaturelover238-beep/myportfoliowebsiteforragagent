@@ -1,7 +1,7 @@
 /* Ali Raza — Portfolio · script.js */
 
 const N8N_CONTACT_WEBHOOK = "https://clientautomations.app.n8n.cloud/webhook/1a309fd6-4f6d-469c-a706-ca721a1a53cb";
-const N8N_CHATBOT_WEBHOOK = "https://clientautomations.app.n8n.cloud/webhook/fbb604a6-368c-4c65-8b77-abf80ac0b00e";
+const N8N_CHATBOT_WEBHOOK = "https://clientautomations.app.n8n.cloud/webhook/037f98c4-1790-4529-bc86-8f1093377b23";
 
 (() => {
 
